@@ -1,0 +1,10 @@
+:root{
+    --transparent : rgba(255, 255, 255, 0.8);
+    --primary:rgba(129, 125, 125, 0.8);
+    --primary2:rgba(129,125,125,0.6);
+    --secondary:rgba(255,255,255,0.2);
+    --text-primary:#ad0d0d;
+    --transition:.28s cubic-bezier(0.4, 0, 0.2, 1);
+    --color2:rgb(223, 188, 32);
+    --font-color:#000;
+}
